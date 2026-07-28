@@ -1,0 +1,36 @@
+name: Aktualizace RSS Arquitectura Viva
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Spustí se každý den v 8:00 ráno
+  workflow_dispatch: # Umožní ti spustit to i ručně tlačítkem
+
+permissions:
+  contents: write # Důležité: dovolí robotovi zapsat XML soubor zpět do repozitáře
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stažení kódu
+        uses: actions/checkout@v4
+
+      - name: Příprava Pythonu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalace knihoven
+        run: pip install -r requirements.txt
+
+      - name: Spuštění skriptu
+        run: python scraper.py
+
+      - name: Uložení vygenerovaného RSS
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add feed.xml
+          # Uloží soubor jen v případě, že se něco změnilo
+          git diff-index --quiet HEAD || git commit -m "Automatická aktualizace RSS"
+          git push
