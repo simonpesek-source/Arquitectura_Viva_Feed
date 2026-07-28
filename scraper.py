@@ -3,10 +3,10 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from datetime import datetime
 import time
+import re
 
 url = 'https://arquitecturaviva.com/works'
 
-# Nastavení skrytého prohlížeče (Headless Chrome pro automatické skripty)
 chrome_options = Options()
 chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("--no-sandbox")
@@ -22,43 +22,81 @@ seen_links = set()
 
 try:
     driver.get(url)
-    print("Čekám na načtení projektů pomocí JavaScriptu...")
-    time.sleep(5)  # Počkáme 5 vteřin, než si stránka dotáhne články
+    print("Čekám na prvotní načtení...")
+    time.sleep(3)
+    
+    # KROK NAVÍC: Skrolujeme dolů, aby se aktivovaly líné obrázky (lazy-loading)
+    print("Skroluji pro načtení obrázků...")
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight/3);")
+    time.sleep(3)
     
     html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
     
-    # Najdeme kontejner, do kterého se nahrávají výsledky
     container = soup.find('div', id='resultados')
     
     if container:
-        # Projdeme všechny odkazy (karty článků) uvnitř výsledků
-        for item in container.find_all('a'):
-            href = item.get('href', '')
-            if not href or href in seen_links or 'javascript' in href:
+        for link_tag in container.find_all('a'):
+            href = link_tag.get('href', '')
+            if not href or 'javascript' in href:
                 continue
                 
             full_url = href if href.startswith('http') else 'https://arquitecturaviva.com' + href
             
-            # Zkusíme najít nadpis (často bývá v h2, h3, nebo uvnitř silného textu/spanu)
-            title_tag = item.find(['h2', 'h3', 'h4', 'strong', 'span'])
-            title = title_tag.get_text(strip=True) if title_tag else item.get_text(strip=True)
+            if full_url in seen_links:
+                continue
             
-            # Vyfiltrujeme prázdné nebo nesmyslné odkazy (např. prázdné ikony)
+            title_tag = link_tag.find(['h2', 'h3', 'h4', 'strong', 'span'])
+            title = title_tag.get_text(strip=True) if title_tag else link_tag.get_text(strip=True)
+            
+            # Pokud je odkaz prázdný nebo nesmyslný, přeskočíme ho
             if not title or len(title) < 3:
                 continue
-                
-            # Hledání obrázku (často jako tag img, nebo data-src u líného načítání)
-            img_tag = item.find('img')
+            
+            # --- AGRESIVNÍ ZÍSKÁNÍ OBRÁZKU V OKOLÍ ODKAZU ---
             image_url = ""
-            if img_tag:
-                image_url = img_tag.get('src') or img_tag.get('data-src') or ""
-                if image_url and not image_url.startswith('http'):
+            context = link_tag
+            
+            # Půjdeme až o 4 úrovně HTML bloků výš, abychom fotku chytli, i když není součástí odkazu
+            for _ in range(4): 
+                if not context or context.get('id') == 'resultados' or context.name == 'body':
+                    break
+                
+                # Hledáme ve všech dětech aktuálního bloku
+                for el in context.find_all(['img', 'source', 'div', 'figure', 'span']):
+                    # Široká paleta lazy-loading atributů, které vývojáři používají
+                    for attr in ['data-original', 'data-src', 'data-lazy', 'data-srcset', 'srcset', 'src', 'data-bg', 'style']:
+                        val = el.get(attr, '')
+                        
+                        if attr == 'style' and val:
+                            match = re.search(r'url\(\s*[\'"]?(.*?)[\'"]?\s*\)', val)
+                            if match:
+                                val = match.group(1).replace('\\/', '/').replace('\\.', '.').replace('\\', '').strip()
+                                if val and 'data:image' not in val:
+                                    image_url = val
+                                    break
+                        elif val and isinstance(val, str) and 'data:image' not in val and '.svg' not in val and 'avatar' not in val:
+                            # Ošetření formátu "srcset", který obsahuje více adres oddělených čárkou
+                            if ',' in val: 
+                                val = val.split(',')[0].strip().split(' ')[0]
+                            image_url = val
+                            break
+                            
+                    if image_url: break
+                if image_url: break
+                
+                context = context.parent
+            
+            # Úprava, aby URL byla kompletní a funkční pro RSS čtečku
+            if image_url and not image_url.startswith('http'):
+                if image_url.startswith('//'):
+                    image_url = 'https:' + image_url
+                elif image_url.startswith('/'):
                     image_url = 'https://arquitecturaviva.com' + image_url
             
-            seen_links.add(href)
+            seen_links.add(full_url)
             
-            # Opět vložíme obrázek duplicitně pro podporu různých čteček
+            # Metadata pouze s obrázkem, bez vkládání do description (abys v CommaFeedu neměl zdvojené fotky a texty navíc)
             enclosure_tag = ""
             media_tag = ""
             if image_url:
@@ -71,21 +109,20 @@ try:
             <title><![CDATA[{title}]]></title>
             <link>{full_url}</link>
             <guid>{full_url}</guid>
-            <description><![CDATA[<p>Nový projekt na Arquitectura Viva: <strong>{title}</strong></p>]]></description>
+            <description><![CDATA[<p><strong>{title}</strong></p>]]></description>
             {enclosure_tag}
             {media_tag}
         </item>"""
             
             count += 1
-            if count >= 20: # Omezíme generování na 20 nejnovějších, ať XML není zbytečně obrovské
+            if count >= 20:
                 break
     else:
-        print("Kontejner s výsledky se na stránce nenašel.")
+        print("Kontejner #resultados se na stránce nenašel.")
 
 except Exception as e:
-    print(f"Kritická chyba: {e}")
+    print(f"Chyba: {e}")
 finally:
-    # Prohlížeč musíme za každých okolností bezpečně zavřít
     driver.quit()
 
 # Vygenerování platného RSS XML
