@@ -4,15 +4,31 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Wed, 29 Jul 2026 15:35:53 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 13:17:50 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Miró Rivera ArchitectsUnited States]]></title>
+            <link>https://arquitecturaviva.com/works/casa-lotus-casa-del-lago-y-diffuse-dock-en-austin</link>
+            <guid>https://arquitecturaviva.com/works/casa-lotus-casa-del-lago-y-diffuse-dock-en-austin</guid>
+            <description><![CDATA[<p><strong>Miró Rivera ArchitectsUnited States</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59423/av_thumb__av_imagen.jpeg?h=9b87beeb" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59423/av_thumb__av_imagen.jpeg?h=9b87beeb" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Frank GehryUnited Arab Emirates]]></title>
+            <link>https://arquitecturaviva.com/works/el-guggenheim-abu-dabi-se-inaugura-en-diciembre</link>
+            <guid>https://arquitecturaviva.com/works/el-guggenheim-abu-dabi-se-inaugura-en-diciembre</guid>
+            <description><![CDATA[<p><strong>Frank GehryUnited Arab Emirates</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59413/av_thumb__av_imagen.webp?h=a2ab2d11" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59413/av_thumb__av_imagen.webp?h=a2ab2d11" medium="image" />
+        </item>
         <item>
             <title><![CDATA[3XN  B+H Architects  Zhubo DesignChina]]></title>
             <link>https://arquitecturaviva.com/works/museo-de-historia-natural-de-shenzhen</link>
             <guid>https://arquitecturaviva.com/works/museo-de-historia-natural-de-shenzhen</guid>
             <description><![CDATA[<p><strong>3XN  B+H Architects  Zhubo DesignChina</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59367/av_thumb__av_imagen.webp?h=54ac2501" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59367/av_thumb__av_imagen.webp?h=54ac2501" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59367/av_thumb__av_imagen.webp?h=b80d9a0a" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59367/av_thumb__av_imagen.webp?h=b80d9a0a" medium="image" />
         </item>
         <item>
             <title><![CDATA[archesLithuania]]></title>
@@ -149,22 +165,6 @@
             <description><![CDATA[<p><strong>Errante ArchitettureItaly</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59317/av_thumb__av_imagen.webp?h=8d0aa0fb" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59317/av_thumb__av_imagen.webp?h=8d0aa0fb" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[SnøhettaUnited States]]></title>
-            <link>https://arquitecturaviva.com/works/biblioteca-presidencial-theodore-roosevelt-en-medora</link>
-            <guid>https://arquitecturaviva.com/works/biblioteca-presidencial-theodore-roosevelt-en-medora</guid>
-            <description><![CDATA[<p><strong>SnøhettaUnited States</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59319/av_imagen_listados.webp?h=4677e49d" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59319/av_imagen_listados.webp?h=4677e49d" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Timber Architecture Workshop-Evgeny MakarenkoRussia]]></title>
-            <link>https://arquitecturaviva.com/works/mirador-del-faro-de-la-bahia-de-kola</link>
-            <guid>https://arquitecturaviva.com/works/mirador-del-faro-de-la-bahia-de-kola</guid>
-            <description><![CDATA[<p><strong>Timber Architecture Workshop-Evgeny MakarenkoRussia</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59315/av_thumb__av_imagen.webp?h=bf92a2b9" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59315/av_thumb__av_imagen.webp?h=bf92a2b9" medium="image" />
         </item>
 </channel>
 </rss>
