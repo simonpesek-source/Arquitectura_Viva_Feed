@@ -4,8 +4,24 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Mon, 03 Aug 2026 16:58:02 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 16:20:45 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Caá Porá ArquitecturaEcuador]]></title>
+            <link>https://arquitecturaviva.com/works/pabellon-de-investigacion-wildsumaco-en-pacto-sumaco</link>
+            <guid>https://arquitecturaviva.com/works/pabellon-de-investigacion-wildsumaco-en-pacto-sumaco</guid>
+            <description><![CDATA[<p><strong>Caá Porá ArquitecturaEcuador</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59455/av_thumb__av_imagen.jpeg?h=f6ca8e62" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59455/av_thumb__av_imagen.jpeg?h=f6ca8e62" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[MARXESpain]]></title>
+            <link>https://arquitecturaviva.com/works/renovacion-de-la-vivienda-a-cormela-en-corme-porto</link>
+            <guid>https://arquitecturaviva.com/works/renovacion-de-la-vivienda-a-cormela-en-corme-porto</guid>
+            <description><![CDATA[<p><strong>MARXESpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59453/av_thumb__av_imagen.webp?h=549c3716" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59453/av_thumb__av_imagen.webp?h=549c3716" medium="image" />
+        </item>
         <item>
             <title><![CDATA[PLAT ASIAChina]]></title>
             <link>https://arquitecturaviva.com/works/salon-de-te-en-las-nubes</link>
@@ -149,22 +165,6 @@
             <description><![CDATA[<p><strong>Iñaki EcheverriaMexico</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59343/av_thumb__av_imagen.webp?h=7535b0ae" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59343/av_thumb__av_imagen.webp?h=7535b0ae" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[CanobardinSpain]]></title>
-            <link>https://arquitecturaviva.com/works/MOOF_Fitness_Studio_Pozuelo_Alarcon</link>
-            <guid>https://arquitecturaviva.com/works/MOOF_Fitness_Studio_Pozuelo_Alarcon</guid>
-            <description><![CDATA[<p><strong>CanobardinSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59321/av_thumb__av_imagen.webp?h=89ebfbdb" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59321/av_thumb__av_imagen.webp?h=89ebfbdb" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Iterare ArquitectosSpain]]></title>
-            <link>https://arquitecturaviva.com/works/casa-nido-en-valencia</link>
-            <guid>https://arquitecturaviva.com/works/casa-nido-en-valencia</guid>
-            <description><![CDATA[<p><strong>Iterare ArquitectosSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59341/av_thumb__av_imagen.webp?h=f9bdf4f3" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59341/av_thumb__av_imagen.webp?h=f9bdf4f3" medium="image" />
         </item>
 </channel>
 </rss>
