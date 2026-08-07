@@ -4,15 +4,23 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Wed, 05 Aug 2026 15:51:04 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 10:38:59 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Sosokki AnacSouth Korea]]></title>
+            <link>https://arquitecturaviva.com/works/cafe-monologue-en-gangwon</link>
+            <guid>https://arquitecturaviva.com/works/cafe-monologue-en-gangwon</guid>
+            <description><![CDATA[<p><strong>Sosokki AnacSouth Korea</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59461/av_thumb__av_imagen.webp?h=e7d7f0b1" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59461/av_thumb__av_imagen.webp?h=e7d7f0b1" medium="image" />
+        </item>
         <item>
             <title><![CDATA[DIIRSpain]]></title>
             <link>https://arquitecturaviva.com/works/tienda-decohogalia-en-menorca</link>
             <guid>https://arquitecturaviva.com/works/tienda-decohogalia-en-menorca</guid>
             <description><![CDATA[<p><strong>DIIRSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59459/av_thumb__av_imagen.jpeg?h=15037383" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59459/av_thumb__av_imagen.jpeg?h=15037383" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59459/av_thumb__av_imagen.webp?h=15037383" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59459/av_thumb__av_imagen.webp?h=15037383" medium="image" />
         </item>
         <item>
             <title><![CDATA[hue studioSpain]]></title>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>EspecieSpain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59351/av_thumb__av_imagen.webp?h=5401b50d" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59351/av_thumb__av_imagen.webp?h=5401b50d" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[FGMF ArquitetosBrazil]]></title>
-            <link>https://arquitecturaviva.com/works/edificio-vitacon-melo-alves-en-so-paulo</link>
-            <guid>https://arquitecturaviva.com/works/edificio-vitacon-melo-alves-en-so-paulo</guid>
-            <description><![CDATA[<p><strong>FGMF ArquitetosBrazil</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59349/av_imagen_listados.webp?h=1c37406f" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59349/av_imagen_listados.webp?h=1c37406f" medium="image" />
         </item>
 </channel>
 </rss>
