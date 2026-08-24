@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Sun, 23 Aug 2026 09:01:18 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 10:20:50 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[ZHA - Zaha Hadid ArchitectsAzerbaijan]]></title>
+            <link>https://arquitecturaviva.com/works/plan-director-de-baku-expo-city</link>
+            <guid>https://arquitecturaviva.com/works/plan-director-de-baku-expo-city</guid>
+            <description><![CDATA[<p><strong>ZHA - Zaha Hadid ArchitectsAzerbaijan</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59465/av_thumb__av_imagen.jpeg?h=9e0d3b9f" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59465/av_thumb__av_imagen.jpeg?h=9e0d3b9f" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Sosokki AnacSouth Korea]]></title>
             <link>https://arquitecturaviva.com/works/cafe-monologue-en-gangwon</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>Junya Ishigami + associatesChina</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59353/av_thumb__av_imagen.webp?h=ca334a62" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59353/av_thumb__av_imagen.webp?h=ca334a62" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[EspecieSpain]]></title>
-            <link>https://arquitecturaviva.com/works/casa-am14-en-lorca</link>
-            <guid>https://arquitecturaviva.com/works/casa-am14-en-lorca</guid>
-            <description><![CDATA[<p><strong>EspecieSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59351/av_thumb__av_imagen.webp?h=5401b50d" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59351/av_thumb__av_imagen.webp?h=5401b50d" medium="image" />
         </item>
 </channel>
 </rss>
