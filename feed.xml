@@ -4,8 +4,24 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Tue, 25 Aug 2026 09:55:12 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 10:04:45 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[ODANetherlands]]></title>
+            <link>https://arquitecturaviva.com/works/torre-post-en-roterdam</link>
+            <guid>https://arquitecturaviva.com/works/torre-post-en-roterdam</guid>
+            <description><![CDATA[<p><strong>ODANetherlands</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59467/av_thumb__av_imagen.webp?h=7123279a" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59467/av_thumb__av_imagen.webp?h=7123279a" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Pedro PitarchSpain]]></title>
+            <link>https://arquitecturaviva.com/works/apartamento-foam-en-madrid</link>
+            <guid>https://arquitecturaviva.com/works/apartamento-foam-en-madrid</guid>
+            <description><![CDATA[<p><strong>Pedro PitarchSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59463/av_thumb__av_imagen.webp?h=631bddf0" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59463/av_thumb__av_imagen.webp?h=631bddf0" medium="image" />
+        </item>
         <item>
             <title><![CDATA[ZHA - Zaha Hadid ArchitectsAzerbaijan]]></title>
             <link>https://arquitecturaviva.com/works/plan-director-de-baku-expo-city</link>
@@ -149,22 +165,6 @@
             <description><![CDATA[<p><strong>Arhitekti Počivašek PetranovičSlovenia</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59357/av_thumb__av_imagen.webp?h=d2535ffd" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59357/av_thumb__av_imagen.webp?h=d2535ffd" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[MeiiSpain]]></title>
-            <link>https://arquitecturaviva.com/works/polideportivo-municipal-en-la-union-murcia</link>
-            <guid>https://arquitecturaviva.com/works/polideportivo-municipal-en-la-union-murcia</guid>
-            <description><![CDATA[<p><strong>MeiiSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59355/av_thumb__av_imagen.webp?h=1f97f1e4" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59355/av_thumb__av_imagen.webp?h=1f97f1e4" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Junya Ishigami + associatesChina]]></title>
-            <link>https://arquitecturaviva.com/works/escuela-bosque-en-rizhao</link>
-            <guid>https://arquitecturaviva.com/works/escuela-bosque-en-rizhao</guid>
-            <description><![CDATA[<p><strong>Junya Ishigami + associatesChina</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59353/av_thumb__av_imagen.webp?h=ca334a62" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59353/av_thumb__av_imagen.webp?h=ca334a62" medium="image" />
         </item>
 </channel>
 </rss>
