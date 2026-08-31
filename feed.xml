@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Sun, 30 Aug 2026 13:21:41 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 15:33:19 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Elías Rizo ArquitectosMexico]]></title>
+            <link>https://arquitecturaviva.com/works/centro-de-visitantes-para-la-hacienda-tequila-clase-azul-en-tepatitlan-de-morelos</link>
+            <guid>https://arquitecturaviva.com/works/centro-de-visitantes-para-la-hacienda-tequila-clase-azul-en-tepatitlan-de-morelos</guid>
+            <description><![CDATA[<p><strong>Elías Rizo ArquitectosMexico</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59527/av_thumb__av_imagen.jpeg?h=1df3901a" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59527/av_thumb__av_imagen.jpeg?h=1df3901a" medium="image" />
+        </item>
         <item>
             <title><![CDATA[MAD ArchitectsChina]]></title>
             <link>https://arquitecturaviva.com/works/plaza-cultural-de-la-bahia-de-shenzhen</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>archesLithuania</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59365/av_thumb__av_imagen.webp?h=815744f2" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59365/av_thumb__av_imagen.webp?h=815744f2" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Taller de Arquitectura Miguel MontorMexico]]></title>
-            <link>https://arquitecturaviva.com/works/centro-deportivo-y-cultural-el-mayab-en-tecate</link>
-            <guid>https://arquitecturaviva.com/works/centro-deportivo-y-cultural-el-mayab-en-tecate</guid>
-            <description><![CDATA[<p><strong>Taller de Arquitectura Miguel MontorMexico</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59363/av_thumb__av_imagen.webp?h=f944cc29" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59363/av_thumb__av_imagen.webp?h=f944cc29" medium="image" />
         </item>
 </channel>
 </rss>
