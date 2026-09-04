@@ -4,23 +4,31 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Thu, 03 Sep 2026 12:17:21 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 12:17:50 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[MAD ArchitectsUnited States]]></title>
+            <link>https://arquitecturaviva.com/works/lucas-museum-of-narrative-art-en-los-angeles</link>
+            <guid>https://arquitecturaviva.com/works/lucas-museum-of-narrative-art-en-los-angeles</guid>
+            <description><![CDATA[<p><strong>MAD ArchitectsUnited States</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59541/av_thumb__av_imagen.webp?h=364d7b93" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59541/av_thumb__av_imagen.webp?h=364d7b93" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Ruizesquiroz ArquitectosSpain]]></title>
             <link>https://arquitecturaviva.com/works/plugink-garaje-y-trasteros-en-san-sebastian</link>
             <guid>https://arquitecturaviva.com/works/plugink-garaje-y-trasteros-en-san-sebastian</guid>
             <description><![CDATA[<p><strong>Ruizesquiroz ArquitectosSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59539/av_thumb__av_imagen.jpeg?h=d6ae3b32" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59539/av_thumb__av_imagen.jpeg?h=d6ae3b32" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59539/av_thumb__av_imagen.webp?h=d6ae3b32" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59539/av_thumb__av_imagen.webp?h=d6ae3b32" medium="image" />
         </item>
         <item>
             <title><![CDATA[Pablo MillánSpain]]></title>
             <link>https://arquitecturaviva.com/works/museo-arqueologico-de-marchena</link>
             <guid>https://arquitecturaviva.com/works/museo-arqueologico-de-marchena</guid>
             <description><![CDATA[<p><strong>Pablo MillánSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59537/av_imagen_listados.jpeg?h=d4e99bd2" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59537/av_imagen_listados.jpeg?h=d4e99bd2" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59537/av_imagen_listados.webp?h=d4e99bd2" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59537/av_imagen_listados.webp?h=d4e99bd2" medium="image" />
         </item>
         <item>
             <title><![CDATA[Alexandre PavlidisGreece]]></title>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>MARXESpain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59453/av_thumb__av_imagen.webp?h=549c3716" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59453/av_thumb__av_imagen.webp?h=549c3716" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[PLAT ASIAChina]]></title>
-            <link>https://arquitecturaviva.com/works/salon-de-te-en-las-nubes</link>
-            <guid>https://arquitecturaviva.com/works/salon-de-te-en-las-nubes</guid>
-            <description><![CDATA[<p><strong>PLAT ASIAChina</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59437/av_thumb__av_imagen.webp?h=364abd20" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59437/av_thumb__av_imagen.webp?h=364abd20" medium="image" />
         </item>
 </channel>
 </rss>
