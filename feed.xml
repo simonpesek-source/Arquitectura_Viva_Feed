@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Sun, 06 Sep 2026 11:46:59 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 13:43:25 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[HW StudioMexico]]></title>
+            <link>https://arquitecturaviva.com/works/casa-malonic-en-zihuatanejo</link>
+            <guid>https://arquitecturaviva.com/works/casa-malonic-en-zihuatanejo</guid>
+            <description><![CDATA[<p><strong>HW StudioMexico</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59531/av_thumb__av_imagen.webp?h=7681dfec" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59531/av_thumb__av_imagen.webp?h=7681dfec" medium="image" />
+        </item>
         <item>
             <title><![CDATA[MAD ArchitectsUnited States]]></title>
             <link>https://arquitecturaviva.com/works/lucas-museum-of-narrative-art-en-los-angeles</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>Caá Porá ArquitecturaEcuador</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59455/av_thumb__av_imagen.webp?h=f6ca8e62" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59455/av_thumb__av_imagen.webp?h=f6ca8e62" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[MARXESpain]]></title>
-            <link>https://arquitecturaviva.com/works/renovacion-de-la-vivienda-a-cormela-en-corme-porto</link>
-            <guid>https://arquitecturaviva.com/works/renovacion-de-la-vivienda-a-cormela-en-corme-porto</guid>
-            <description><![CDATA[<p><strong>MARXESpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59453/av_thumb__av_imagen.webp?h=549c3716" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59453/av_thumb__av_imagen.webp?h=549c3716" medium="image" />
         </item>
 </channel>
 </rss>
