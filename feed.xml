@@ -4,8 +4,24 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Sun, 13 Sep 2026 12:52:36 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 14:28:06 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Héctor Navarro   arkhitektonSpain]]></title>
+            <link>https://arquitecturaviva.com/works/paseo-maritimo-de-comillas</link>
+            <guid>https://arquitecturaviva.com/works/paseo-maritimo-de-comillas</guid>
+            <description><![CDATA[<p><strong>Héctor Navarro   arkhitektonSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59579/av_thumb__av_imagen.jpeg?h=86a2f657" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59579/av_thumb__av_imagen.jpeg?h=86a2f657" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Gutiérrez-de la Fuente Arquitectos  ALN | Architekturbüro Leinhäupl + NeuberGermany]]></title>
+            <link>https://arquitecturaviva.com/works/escuela-estatal-de-educacion-secundaria-en-kemnath</link>
+            <guid>https://arquitecturaviva.com/works/escuela-estatal-de-educacion-secundaria-en-kemnath</guid>
+            <description><![CDATA[<p><strong>Gutiérrez-de la Fuente Arquitectos  ALN | Architekturbüro Leinhäupl + NeuberGermany</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59577/av_thumb__av_imagen.jpeg?h=89f922a9" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59577/av_thumb__av_imagen.jpeg?h=89f922a9" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Baumschlager Eberle ArchitektenFrance]]></title>
             <link>https://arquitecturaviva.com/works/ixcampus-en-saint-germain-en-laye</link>
@@ -149,22 +165,6 @@
             <description><![CDATA[<p><strong>Ryuichi Sasaki ArchitectureJapan</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59471/av_thumb__av_imagen.webp?h=18ae2299" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59471/av_thumb__av_imagen.webp?h=18ae2299" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[ODANetherlands]]></title>
-            <link>https://arquitecturaviva.com/works/torre-post-en-roterdam</link>
-            <guid>https://arquitecturaviva.com/works/torre-post-en-roterdam</guid>
-            <description><![CDATA[<p><strong>ODANetherlands</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59467/av_thumb__av_imagen.webp?h=7123279a" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59467/av_thumb__av_imagen.webp?h=7123279a" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Pedro PitarchSpain]]></title>
-            <link>https://arquitecturaviva.com/works/apartamento-foam-en-madrid</link>
-            <guid>https://arquitecturaviva.com/works/apartamento-foam-en-madrid</guid>
-            <description><![CDATA[<p><strong>Pedro PitarchSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59463/av_thumb__av_imagen.webp?h=631bddf0" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59463/av_thumb__av_imagen.webp?h=631bddf0" medium="image" />
         </item>
 </channel>
 </rss>
