@@ -4,23 +4,31 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Wed, 16 Sep 2026 12:52:17 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 12:49:11 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Carles Enrich  Ravetllat arquitectura (Pere Joan Ravetllat)Spain]]></title>
+            <link>https://arquitecturaviva.com/works/mercado-provisional-de-horta-en-barcelona</link>
+            <guid>https://arquitecturaviva.com/works/mercado-provisional-de-horta-en-barcelona</guid>
+            <description><![CDATA[<p><strong>Carles Enrich  Ravetllat arquitectura (Pere Joan Ravetllat)Spain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59591/av_imagen_listados.webp?h=cf13a57e" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59591/av_imagen_listados.webp?h=cf13a57e" medium="image" />
+        </item>
         <item>
             <title><![CDATA[JOTAJOTA+ (JJ+ estudio)Spain]]></title>
             <link>https://arquitecturaviva.com/works/tienda-colchonexpres-en-madrid</link>
             <guid>https://arquitecturaviva.com/works/tienda-colchonexpres-en-madrid</guid>
             <description><![CDATA[<p><strong>JOTAJOTA+ (JJ+ estudio)Spain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59589/av_thumb__av_imagen.jpeg?h=ea385b9e" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59589/av_thumb__av_imagen.jpeg?h=ea385b9e" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59589/av_thumb__av_imagen.webp?h=ea385b9e" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59589/av_thumb__av_imagen.webp?h=ea385b9e" medium="image" />
         </item>
         <item>
             <title><![CDATA[Patrick ArotcharenFrance]]></title>
             <link>https://arquitecturaviva.com/works/talleres-de-hermes-en-loupes</link>
             <guid>https://arquitecturaviva.com/works/talleres-de-hermes-en-loupes</guid>
             <description><![CDATA[<p><strong>Patrick ArotcharenFrance</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59587/av_thumb__av_imagen.jpeg?h=49991066" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59587/av_thumb__av_imagen.jpeg?h=49991066" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59587/av_thumb__av_imagen.webp?h=86ba6e39" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59587/av_thumb__av_imagen.webp?h=86ba6e39" medium="image" />
         </item>
         <item>
             <title><![CDATA[Labbé PortugueisChile]]></title>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>GAFPA architectureBelgium</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59533/av_thumb__av_imagen.webp?h=615311ab" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59533/av_thumb__av_imagen.webp?h=615311ab" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[MVA / Mikelić Vreš ArhitektiCroatia]]></title>
-            <link>https://arquitecturaviva.com/works/edificio-de-produccion-y-oficinas-en-dubrovan</link>
-            <guid>https://arquitecturaviva.com/works/edificio-de-produccion-y-oficinas-en-dubrovan</guid>
-            <description><![CDATA[<p><strong>MVA / Mikelić Vreš ArhitektiCroatia</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59529/av_thumb__av_imagen.webp?h=2750ffa4" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59529/av_thumb__av_imagen.webp?h=2750ffa4" medium="image" />
         </item>
 </channel>
 </rss>
