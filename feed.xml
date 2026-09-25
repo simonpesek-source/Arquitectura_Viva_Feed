@@ -4,15 +4,31 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Thu, 24 Sep 2026 12:57:16 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 13:03:15 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[NULA.STUDIOSpain]]></title>
+            <link>https://arquitecturaviva.com/works/im-cafe-en-madrid</link>
+            <guid>https://arquitecturaviva.com/works/im-cafe-en-madrid</guid>
+            <description><![CDATA[<p><strong>NULA.STUDIOSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59613/av_thumb__av_imagen.jpeg?h=510eb180" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59613/av_thumb__av_imagen.jpeg?h=510eb180" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[LxS TeamIndia]]></title>
+            <link>https://arquitecturaviva.com/works/girls-innovation-center-gic-en-ahmedabad</link>
+            <guid>https://arquitecturaviva.com/works/girls-innovation-center-gic-en-ahmedabad</guid>
+            <description><![CDATA[<p><strong>LxS TeamIndia</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59611/av_thumb__av_imagen.jpeg?h=8780c07b" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59611/av_thumb__av_imagen.jpeg?h=8780c07b" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Peter ZumthorSwitzerland]]></title>
             <link>https://arquitecturaviva.com/works/ampliacion-de-la-fundacion-beyeler-en-riehen</link>
             <guid>https://arquitecturaviva.com/works/ampliacion-de-la-fundacion-beyeler-en-riehen</guid>
             <description><![CDATA[<p><strong>Peter ZumthorSwitzerland</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59609/av_imagen_listados.jpeg?h=e446bb62" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59609/av_imagen_listados.jpeg?h=e446bb62" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59609/av_imagen_listados.webp?h=e446bb62" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59609/av_imagen_listados.webp?h=e446bb62" medium="image" />
         </item>
         <item>
             <title><![CDATA[BIG Bjarke Ingels GroupSpain]]></title>
@@ -149,22 +165,6 @@
             <description><![CDATA[<p><strong>Baumschlager Eberle ArchitektenFrance</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59575/av_thumb__av_imagen.webp?h=18625680" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59575/av_thumb__av_imagen.webp?h=18625680" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Fuertes-Penedo arquitectosSpain]]></title>
-            <link>https://arquitecturaviva.com/works/rehabilitacion-de-las-carpinterias-de-ribera-de-a-seara</link>
-            <guid>https://arquitecturaviva.com/works/rehabilitacion-de-las-carpinterias-de-ribera-de-a-seara</guid>
-            <description><![CDATA[<p><strong>Fuertes-Penedo arquitectosSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59563/av_thumb__av_imagen.webp?h=0d637ab0" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59563/av_thumb__av_imagen.webp?h=0d637ab0" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[OFFICE Kersten Geers David Van Severen  SO-ILBelgium]]></title>
-            <link>https://arquitecturaviva.com/works/museo-de-arte-contemporaneo-de-amberes-office-so-il</link>
-            <guid>https://arquitecturaviva.com/works/museo-de-arte-contemporaneo-de-amberes-office-so-il</guid>
-            <description><![CDATA[<p><strong>OFFICE Kersten Geers David Van Severen  SO-ILBelgium</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59559/av_thumb__av_imagen.webp?h=d7ebac85" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59559/av_thumb__av_imagen.webp?h=d7ebac85" medium="image" />
         </item>
 </channel>
 </rss>
