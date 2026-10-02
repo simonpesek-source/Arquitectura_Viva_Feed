@@ -4,23 +4,31 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Thu, 01 Oct 2026 14:51:52 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 14:11:56 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Carmody Groarke  ATAMA  RE-STBelgium]]></title>
+            <link>https://arquitecturaviva.com/works/museo-del-diseno-de-gante</link>
+            <guid>https://arquitecturaviva.com/works/museo-del-diseno-de-gante</guid>
+            <description><![CDATA[<p><strong>Carmody Groarke  ATAMA  RE-STBelgium</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59653/av_thumb__av_imagen.jpeg?h=bd9c1869" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59653/av_thumb__av_imagen.jpeg?h=bd9c1869" medium="image" />
+        </item>
         <item>
             <title><![CDATA[MesuraSpain]]></title>
             <link>https://arquitecturaviva.com/works/escalera-infinita-para-hermes</link>
             <guid>https://arquitecturaviva.com/works/escalera-infinita-para-hermes</guid>
             <description><![CDATA[<p><strong>MesuraSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59651/av_thumb__av_imagen.jpeg?h=3fbd232d" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59651/av_thumb__av_imagen.jpeg?h=3fbd232d" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59651/av_thumb__av_imagen.webp?h=3fbd232d" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59651/av_thumb__av_imagen.webp?h=3fbd232d" medium="image" />
         </item>
         <item>
             <title><![CDATA[DUNAR arquitectos    TRAXSpain]]></title>
             <link>https://arquitecturaviva.com/works/rehabilitacion-y-acondicionamiento-del-colegio-de-los-jesuitas-en-fregenal-de-la-sierra-badajoz</link>
             <guid>https://arquitecturaviva.com/works/rehabilitacion-y-acondicionamiento-del-colegio-de-los-jesuitas-en-fregenal-de-la-sierra-badajoz</guid>
             <description><![CDATA[<p><strong>DUNAR arquitectos    TRAXSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59641/av_thumb__av_imagen.jpeg?h=d498ac59" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59641/av_thumb__av_imagen.jpeg?h=d498ac59" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59641/av_thumb__av_imagen.webp?h=d498ac59" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59641/av_thumb__av_imagen.webp?h=d498ac59" medium="image" />
         </item>
         <item>
             <title><![CDATA[Dominique Coulon & AssociésFrance]]></title>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>JOTAJOTA+ (JJ+ estudio)Spain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59589/av_thumb__av_imagen.webp?h=ea385b9e" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59589/av_thumb__av_imagen.webp?h=ea385b9e" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Patrick ArotcharenFrance]]></title>
-            <link>https://arquitecturaviva.com/works/talleres-de-hermes-en-loupes</link>
-            <guid>https://arquitecturaviva.com/works/talleres-de-hermes-en-loupes</guid>
-            <description><![CDATA[<p><strong>Patrick ArotcharenFrance</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59587/av_thumb__av_imagen.webp?h=6300a5c9" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59587/av_thumb__av_imagen.webp?h=6300a5c9" medium="image" />
         </item>
 </channel>
 </rss>
