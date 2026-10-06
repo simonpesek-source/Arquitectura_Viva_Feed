@@ -4,8 +4,24 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Mon, 05 Oct 2026 16:28:21 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 14:32:05 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Taller Segovia MolinaMexico]]></title>
+            <link>https://arquitecturaviva.com/works/casa-refugio-en-santiago-de-queretaro</link>
+            <guid>https://arquitecturaviva.com/works/casa-refugio-en-santiago-de-queretaro</guid>
+            <description><![CDATA[<p><strong>Taller Segovia MolinaMexico</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59657/av_imagen_listados.webp?h=1b50183b" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59657/av_imagen_listados.webp?h=1b50183b" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[Foster + Partners  Luis María UriarteSpain]]></title>
+            <link>https://arquitecturaviva.com/works/ampliacion-del-museo-de-bellas-artes-de-bilbao</link>
+            <guid>https://arquitecturaviva.com/works/ampliacion-del-museo-de-bellas-artes-de-bilbao</guid>
+            <description><![CDATA[<p><strong>Foster + Partners  Luis María UriarteSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59655/av_thumb__av_imagen.webp?h=5fd5a7f8" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59655/av_thumb__av_imagen.webp?h=5fd5a7f8" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Carmody Groarke  ATAMA  RE-STBelgium]]></title>
             <link>https://arquitecturaviva.com/works/museo-del-diseno-de-gante</link>
@@ -149,22 +165,6 @@
             <description><![CDATA[<p><strong>Beautell ArquitectosSpain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59593/av_thumb__av_imagen.webp?h=61935a82" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59593/av_thumb__av_imagen.webp?h=61935a82" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Carles Enrich  Ravetllat arquitectura (Pere Joan Ravetllat)Spain]]></title>
-            <link>https://arquitecturaviva.com/works/mercado-provisional-de-horta-en-barcelona</link>
-            <guid>https://arquitecturaviva.com/works/mercado-provisional-de-horta-en-barcelona</guid>
-            <description><![CDATA[<p><strong>Carles Enrich  Ravetllat arquitectura (Pere Joan Ravetllat)Spain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59591/av_imagen_listados.webp?h=cf13a57e" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59591/av_imagen_listados.webp?h=cf13a57e" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[JOTAJOTA+ (JJ+ estudio)Spain]]></title>
-            <link>https://arquitecturaviva.com/works/tienda-colchonexpres-en-madrid</link>
-            <guid>https://arquitecturaviva.com/works/tienda-colchonexpres-en-madrid</guid>
-            <description><![CDATA[<p><strong>JOTAJOTA+ (JJ+ estudio)Spain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59589/av_thumb__av_imagen.webp?h=ea385b9e" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59589/av_thumb__av_imagen.webp?h=ea385b9e" medium="image" />
         </item>
 </channel>
 </rss>
