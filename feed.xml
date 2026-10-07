@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Tue, 06 Oct 2026 14:32:05 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 14:48:09 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Díaz y DíazSpain]]></title>
+            <link>https://arquitecturaviva.com/works/viviendas-sociales-en-valdecorvos</link>
+            <guid>https://arquitecturaviva.com/works/viviendas-sociales-en-valdecorvos</guid>
+            <description><![CDATA[<p><strong>Díaz y DíazSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59659/av_imagen_listados.webp?h=50bb5a64" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59659/av_imagen_listados.webp?h=50bb5a64" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Taller Segovia MolinaMexico]]></title>
             <link>https://arquitecturaviva.com/works/casa-refugio-en-santiago-de-queretaro</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>Sebastián ArquitectosSpain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59595/av_thumb__av_imagen.webp?h=a961b739" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59595/av_thumb__av_imagen.webp?h=a961b739" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Beautell ArquitectosSpain]]></title>
-            <link>https://arquitecturaviva.com/works/el-elevador-en-el-hierro</link>
-            <guid>https://arquitecturaviva.com/works/el-elevador-en-el-hierro</guid>
-            <description><![CDATA[<p><strong>Beautell ArquitectosSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59593/av_thumb__av_imagen.webp?h=61935a82" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59593/av_thumb__av_imagen.webp?h=61935a82" medium="image" />
         </item>
 </channel>
 </rss>
