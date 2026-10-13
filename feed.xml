@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Mon, 12 Oct 2026 17:03:50 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 15:20:00 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[SnøhettaAustria]]></title>
+            <link>https://arquitecturaviva.com/works/lech-mountain-mirror</link>
+            <guid>https://arquitecturaviva.com/works/lech-mountain-mirror</guid>
+            <description><![CDATA[<p><strong>SnøhettaAustria</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59677/av_thumb__av_imagen.jpeg?h=d23f7e09" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59677/av_thumb__av_imagen.jpeg?h=d23f7e09" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Studio MK27Brazil]]></title>
             <link>https://arquitecturaviva.com/works/tienda-casual-en-so-paulo</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>Frida EscobedoArgentina</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59601/av_thumb__av_imagen.webp?h=963ed8b5" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59601/av_thumb__av_imagen.webp?h=963ed8b5" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[delavegacanolassoSpain]]></title>
-            <link>https://arquitecturaviva.com/works/case-study-tini-185-en-madrid</link>
-            <guid>https://arquitecturaviva.com/works/case-study-tini-185-en-madrid</guid>
-            <description><![CDATA[<p><strong>delavegacanolassoSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59599/av_thumb__av_imagen.webp?h=92e904fa" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59599/av_thumb__av_imagen.webp?h=92e904fa" medium="image" />
         </item>
 </channel>
 </rss>
