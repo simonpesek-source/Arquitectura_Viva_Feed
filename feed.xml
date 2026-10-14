@@ -4,15 +4,23 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Tue, 13 Oct 2026 15:20:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:07:46 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Graber Pulver   Martina HauserSwitzerland]]></title>
+            <link>https://arquitecturaviva.com/works/centro-peter-roth-en-wildhaus</link>
+            <guid>https://arquitecturaviva.com/works/centro-peter-roth-en-wildhaus</guid>
+            <description><![CDATA[<p><strong>Graber Pulver   Martina HauserSwitzerland</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59669/av_imagen_listados.webp?h=52242136" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59669/av_imagen_listados.webp?h=52242136" medium="image" />
+        </item>
         <item>
             <title><![CDATA[SnøhettaAustria]]></title>
             <link>https://arquitecturaviva.com/works/lech-mountain-mirror</link>
             <guid>https://arquitecturaviva.com/works/lech-mountain-mirror</guid>
             <description><![CDATA[<p><strong>SnøhettaAustria</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59677/av_thumb__av_imagen.jpeg?h=d23f7e09" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59677/av_thumb__av_imagen.jpeg?h=d23f7e09" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59677/av_thumb__av_imagen.webp?h=d23f7e09" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59677/av_thumb__av_imagen.webp?h=d23f7e09" medium="image" />
         </item>
         <item>
             <title><![CDATA[Studio MK27Brazil]]></title>
@@ -99,8 +107,8 @@
             <link>https://arquitecturaviva.com/works/renovacion-del-museo-ca2m-en-mostoles-madrid</link>
             <guid>https://arquitecturaviva.com/works/renovacion-del-museo-ca2m-en-mostoles-madrid</guid>
             <description><![CDATA[<p><strong>Pedro PitarchSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59617/av_imagen_listados.webp?h=f036b287" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59617/av_imagen_listados.webp?h=f036b287" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59617/av_imagen_listados.webp?h=83b02389" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59617/av_imagen_listados.webp?h=83b02389" medium="image" />
         </item>
         <item>
             <title><![CDATA[Herzog & de Meuron  Sasaki AssociatesUnited States]]></title>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>martínezysoler  SH asociadosSpain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59603/av_thumb__av_imagen.webp?h=0326aa28" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59603/av_thumb__av_imagen.webp?h=0326aa28" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Frida EscobedoArgentina]]></title>
-            <link>https://arquitecturaviva.com/works/ampliacion-del-museo-de-arte-latinoamericano-de-buenos-aires-malba</link>
-            <guid>https://arquitecturaviva.com/works/ampliacion-del-museo-de-arte-latinoamericano-de-buenos-aires-malba</guid>
-            <description><![CDATA[<p><strong>Frida EscobedoArgentina</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59601/av_thumb__av_imagen.webp?h=963ed8b5" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59601/av_thumb__av_imagen.webp?h=963ed8b5" medium="image" />
         </item>
 </channel>
 </rss>
