@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Thu, 15 Oct 2026 12:54:11 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 12:46:10 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Saez Pedraja ArchitectsUnited States]]></title>
+            <link>https://arquitecturaviva.com/works/estudio-de-grabacion-en-los-angeles</link>
+            <guid>https://arquitecturaviva.com/works/estudio-de-grabacion-en-los-angeles</guid>
+            <description><![CDATA[<p><strong>Saez Pedraja ArchitectsUnited States</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59683/av_thumb__av_imagen.webp?h=1462204d" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59683/av_thumb__av_imagen.webp?h=1462204d" medium="image" />
+        </item>
         <item>
             <title><![CDATA[MMXMexico]]></title>
             <link>https://arquitecturaviva.com/works/ciudad-de-las-artes-indigenas-en-tepic</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>BIG Bjarke Ingels GroupSpain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59607/av_thumb__av_imagen.webp?h=c0c26973" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59607/av_thumb__av_imagen.webp?h=c0c26973" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[MateriaMexico]]></title>
-            <link>https://arquitecturaviva.com/works/sede-de-bbva-en-merida</link>
-            <guid>https://arquitecturaviva.com/works/sede-de-bbva-en-merida</guid>
-            <description><![CDATA[<p><strong>MateriaMexico</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59605/av_thumb__av_imagen.webp?h=9c5c0724" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59605/av_thumb__av_imagen.webp?h=9c5c0724" medium="image" />
         </item>
 </channel>
 </rss>
