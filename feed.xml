@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Fri, 16 Oct 2026 12:46:10 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 11:47:28 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[SnøhettaChina]]></title>
+            <link>https://arquitecturaviva.com/works/opera-de-shanghai</link>
+            <guid>https://arquitecturaviva.com/works/opera-de-shanghai</guid>
+            <description><![CDATA[<p><strong>SnøhettaChina</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/58631/av_thumb__av_imagen.webp?h=5675d6e7" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/58631/av_thumb__av_imagen.webp?h=5675d6e7" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Saez Pedraja ArchitectsUnited States]]></title>
             <link>https://arquitecturaviva.com/works/estudio-de-grabacion-en-los-angeles</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>Peter ZumthorSwitzerland</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59609/av_imagen_listados.webp?h=e446bb62" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59609/av_imagen_listados.webp?h=e446bb62" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[BIG Bjarke Ingels GroupSpain]]></title>
-            <link>https://arquitecturaviva.com/works/macondo-park-para-la-residencia-de-shakira-en-madrid</link>
-            <guid>https://arquitecturaviva.com/works/macondo-park-para-la-residencia-de-shakira-en-madrid</guid>
-            <description><![CDATA[<p><strong>BIG Bjarke Ingels GroupSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59607/av_thumb__av_imagen.webp?h=c0c26973" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59607/av_thumb__av_imagen.webp?h=c0c26973" medium="image" />
         </item>
 </channel>
 </rss>
