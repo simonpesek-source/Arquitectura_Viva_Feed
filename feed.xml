@@ -4,8 +4,24 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Sun, 18 Oct 2026 12:12:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 15:03:04 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[estudioHerrerosSpain]]></title>
+            <link>https://arquitecturaviva.com/works/coleccion-de-arte-alkar-en-bilbao</link>
+            <guid>https://arquitecturaviva.com/works/coleccion-de-arte-alkar-en-bilbao</guid>
+            <description><![CDATA[<p><strong>estudioHerrerosSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59691/av_thumb__av_imagen.jpeg?h=5e8db9ee" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59691/av_thumb__av_imagen.jpeg?h=5e8db9ee" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[David Chipperfield ArchitectsGermany]]></title>
+            <link>https://arquitecturaviva.com/works/pabellon-anselm-kiefer-en-kunzelsau</link>
+            <guid>https://arquitecturaviva.com/works/pabellon-anselm-kiefer-en-kunzelsau</guid>
+            <description><![CDATA[<p><strong>David Chipperfield ArchitectsGermany</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59689/av_thumb__av_imagen.jpeg?h=51e402ae" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59689/av_thumb__av_imagen.jpeg?h=51e402ae" medium="image" />
+        </item>
         <item>
             <title><![CDATA[SnøhettaChina]]></title>
             <link>https://arquitecturaviva.com/works/opera-de-shanghai</link>
@@ -149,22 +165,6 @@
             <description><![CDATA[<p><strong>NULA.STUDIOSpain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59613/av_thumb__av_imagen.webp?h=510eb180" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59613/av_thumb__av_imagen.webp?h=510eb180" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[LxS TeamIndia]]></title>
-            <link>https://arquitecturaviva.com/works/girls-innovation-center-gic-en-ahmedabad</link>
-            <guid>https://arquitecturaviva.com/works/girls-innovation-center-gic-en-ahmedabad</guid>
-            <description><![CDATA[<p><strong>LxS TeamIndia</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59611/av_thumb__av_imagen.webp?h=8780c07b" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59611/av_thumb__av_imagen.webp?h=8780c07b" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Peter ZumthorSwitzerland]]></title>
-            <link>https://arquitecturaviva.com/works/ampliacion-de-la-fundacion-beyeler-en-riehen</link>
-            <guid>https://arquitecturaviva.com/works/ampliacion-de-la-fundacion-beyeler-en-riehen</guid>
-            <description><![CDATA[<p><strong>Peter ZumthorSwitzerland</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59609/av_imagen_listados.webp?h=e446bb62" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59609/av_imagen_listados.webp?h=e446bb62" medium="image" />
         </item>
 </channel>
 </rss>
