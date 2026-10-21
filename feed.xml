@@ -4,23 +4,39 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Tue, 20 Oct 2026 13:04:44 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 13:16:29 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Leku StudioSpain]]></title>
+            <link>https://arquitecturaviva.com/works/plaza-recoletas-en-tafalla</link>
+            <guid>https://arquitecturaviva.com/works/plaza-recoletas-en-tafalla</guid>
+            <description><![CDATA[<p><strong>Leku StudioSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59699/av_thumb__av_imagen.jpeg?h=0fb8d913" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59699/av_thumb__av_imagen.jpeg?h=0fb8d913" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[MANERAFrance]]></title>
+            <link>https://arquitecturaviva.com/works/casa-invernadero-en-saint-ouen</link>
+            <guid>https://arquitecturaviva.com/works/casa-invernadero-en-saint-ouen</guid>
+            <description><![CDATA[<p><strong>MANERAFrance</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59697/av_thumb__av_imagen.jpeg?h=359ead01" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59697/av_thumb__av_imagen.jpeg?h=359ead01" medium="image" />
+        </item>
         <item>
             <title><![CDATA[BAAS arquitectura  h3o architectsSpain]]></title>
             <link>https://arquitecturaviva.com/works/rehabilitacion-del-hospital-de-la-santa-creu-de-barcelona</link>
             <guid>https://arquitecturaviva.com/works/rehabilitacion-del-hospital-de-la-santa-creu-de-barcelona</guid>
             <description><![CDATA[<p><strong>BAAS arquitectura  h3o architectsSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59695/av_thumb__av_imagen.jpeg?h=04beaa19" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59695/av_thumb__av_imagen.jpeg?h=04beaa19" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59695/av_thumb__av_imagen.webp?h=04beaa19" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59695/av_thumb__av_imagen.webp?h=04beaa19" medium="image" />
         </item>
         <item>
             <title><![CDATA[SV60 / Cordón & Liñán ArquitectosCyprus]]></title>
             <link>https://arquitecturaviva.com/works/facultad-de-medicina-y-ciencias-de-la-salud-en-nicosia</link>
             <guid>https://arquitecturaviva.com/works/facultad-de-medicina-y-ciencias-de-la-salud-en-nicosia</guid>
             <description><![CDATA[<p><strong>SV60 / Cordón & Liñán ArquitectosCyprus</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59693/av_imagen_listados.jpeg?h=bfdc4e06" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59693/av_imagen_listados.jpeg?h=bfdc4e06" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59693/av_imagen_listados.webp?h=bfdc4e06" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59693/av_imagen_listados.webp?h=bfdc4e06" medium="image" />
         </item>
         <item>
             <title><![CDATA[estudioHerrerosSpain]]></title>
@@ -149,22 +165,6 @@
             <description><![CDATA[<p><strong>Dominique Coulon & AssociésFrance</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59621/av_thumb__av_imagen.webp?h=0d085888" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59621/av_thumb__av_imagen.webp?h=0d085888" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Snøhetta]]></title>
-            <link>https://arquitecturaviva.com/works/pavilia-farm-en-hong-kong</link>
-            <guid>https://arquitecturaviva.com/works/pavilia-farm-en-hong-kong</guid>
-            <description><![CDATA[<p><strong>Snøhetta</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59619/av_imagen_listados.webp?h=339d59c8" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59619/av_imagen_listados.webp?h=339d59c8" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Pedro PitarchSpain]]></title>
-            <link>https://arquitecturaviva.com/works/renovacion-del-museo-ca2m-en-mostoles-madrid</link>
-            <guid>https://arquitecturaviva.com/works/renovacion-del-museo-ca2m-en-mostoles-madrid</guid>
-            <description><![CDATA[<p><strong>Pedro PitarchSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59617/av_imagen_listados.webp?h=83b02389" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59617/av_imagen_listados.webp?h=83b02389" medium="image" />
         </item>
 </channel>
 </rss>
