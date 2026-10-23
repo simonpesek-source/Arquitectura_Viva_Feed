@@ -4,23 +4,31 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Thu, 22 Oct 2026 13:14:49 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 12:53:39 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Laura OrtínSpain]]></title>
+            <link>https://arquitecturaviva.com/works/casa-vereda-en-los-ramos-murcia</link>
+            <guid>https://arquitecturaviva.com/works/casa-vereda-en-los-ramos-murcia</guid>
+            <description><![CDATA[<p><strong>Laura OrtínSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59705/av_thumb__av_imagen.jpeg?h=8231aa15" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59705/av_thumb__av_imagen.jpeg?h=8231aa15" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Foster + PartnersCambodia]]></title>
             <link>https://arquitecturaviva.com/works/aeropuerto-internacional-techo-en-phnom-penh</link>
             <guid>https://arquitecturaviva.com/works/aeropuerto-internacional-techo-en-phnom-penh</guid>
             <description><![CDATA[<p><strong>Foster + PartnersCambodia</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59703/av_thumb__av_imagen.jpeg?h=273118d9" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59703/av_thumb__av_imagen.jpeg?h=273118d9" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59703/av_thumb__av_imagen.webp?h=273118d9" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59703/av_thumb__av_imagen.webp?h=273118d9" medium="image" />
         </item>
         <item>
             <title><![CDATA[5468796 ArchitectureCanada]]></title>
             <link>https://arquitecturaviva.com/works/90-100-alexander-en-winnipeg</link>
             <guid>https://arquitecturaviva.com/works/90-100-alexander-en-winnipeg</guid>
             <description><![CDATA[<p><strong>5468796 ArchitectureCanada</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59701/av_imagen_listados.jpeg?h=d244e883" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59701/av_imagen_listados.jpeg?h=d244e883" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59701/av_imagen_listados.webp?h=d244e883" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59701/av_imagen_listados.webp?h=d244e883" medium="image" />
         </item>
         <item>
             <title><![CDATA[Leku StudioSpain]]></title>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>Carmody Groarke  ATAMA  RE-STBelgium</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59653/av_thumb__av_imagen.webp?h=8bcfa48d" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59653/av_thumb__av_imagen.webp?h=8bcfa48d" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[MesuraSpain]]></title>
-            <link>https://arquitecturaviva.com/works/escalera-infinita-para-hermes</link>
-            <guid>https://arquitecturaviva.com/works/escalera-infinita-para-hermes</guid>
-            <description><![CDATA[<p><strong>MesuraSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59651/av_thumb__av_imagen.webp?h=3fbd232d" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59651/av_thumb__av_imagen.webp?h=3fbd232d" medium="image" />
         </item>
 </channel>
 </rss>
