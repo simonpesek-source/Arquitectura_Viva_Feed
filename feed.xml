@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Sun, 25 Oct 2026 12:48:15 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 14:37:14 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[MMXMexico]]></title>
+            <link>https://arquitecturaviva.com/works/unidad-basica-de-rehabilitacion-la-era-en-tepetlaoxtoc</link>
+            <guid>https://arquitecturaviva.com/works/unidad-basica-de-rehabilitacion-la-era-en-tepetlaoxtoc</guid>
+            <description><![CDATA[<p><strong>MMXMexico</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59715/av_thumb__av_imagen.jpeg?h=37a16572" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59715/av_thumb__av_imagen.jpeg?h=37a16572" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Laura OrtínSpain]]></title>
             <link>https://arquitecturaviva.com/works/casa-vereda-en-los-ramos-murcia</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>Foster + Partners  Luis María UriarteSpain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59655/av_thumb__av_imagen.webp?h=5fd5a7f8" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59655/av_thumb__av_imagen.webp?h=5fd5a7f8" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Carmody Groarke  ATAMA  RE-STBelgium]]></title>
-            <link>https://arquitecturaviva.com/works/museo-del-diseno-de-gante</link>
-            <guid>https://arquitecturaviva.com/works/museo-del-diseno-de-gante</guid>
-            <description><![CDATA[<p><strong>Carmody Groarke  ATAMA  RE-STBelgium</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59653/av_thumb__av_imagen.webp?h=8bcfa48d" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59653/av_thumb__av_imagen.webp?h=8bcfa48d" medium="image" />
         </item>
 </channel>
 </rss>
