@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Thu, 29 Oct 2026 14:42:11 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 14:37:57 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Kengo KumaDenmark]]></title>
+            <link>https://arquitecturaviva.com/works/kai-water-culture-house</link>
+            <guid>https://arquitecturaviva.com/works/kai-water-culture-house</guid>
+            <description><![CDATA[<p><strong>Kengo KumaDenmark</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59731/av_thumb__av_imagen.jpeg?h=849d0d77" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59731/av_thumb__av_imagen.jpeg?h=849d0d77" medium="image" />
+        </item>
         <item>
             <title><![CDATA[archi5  Bureau Face BFrance]]></title>
             <link>https://arquitecturaviva.com/works/escuela-helene-carrere-dencausse-en-marly</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>SnøhettaAustria</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59677/av_thumb__av_imagen.webp?h=d23f7e09" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59677/av_thumb__av_imagen.webp?h=d23f7e09" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Studio MK27Brazil]]></title>
-            <link>https://arquitecturaviva.com/works/tienda-casual-en-so-paulo</link>
-            <guid>https://arquitecturaviva.com/works/tienda-casual-en-so-paulo</guid>
-            <description><![CDATA[<p><strong>Studio MK27Brazil</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59663/av_thumb__av_imagen.webp?h=fd581e18" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59663/av_thumb__av_imagen.webp?h=fd581e18" medium="image" />
         </item>
 </channel>
 </rss>
