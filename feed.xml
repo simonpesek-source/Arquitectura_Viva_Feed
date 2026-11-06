@@ -4,15 +4,23 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Thu, 05 Nov 2026 15:51:25 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 15:25:48 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Arruabarrena Arkitektura  Ache ArquitecturaSpain]]></title>
+            <link>https://arquitecturaviva.com/works/rehabilitacion-del-edificio-de-emigracion-de-alejandro-de-la-sota-en-irun</link>
+            <guid>https://arquitecturaviva.com/works/rehabilitacion-del-edificio-de-emigracion-de-alejandro-de-la-sota-en-irun</guid>
+            <description><![CDATA[<p><strong>Arruabarrena Arkitektura  Ache ArquitecturaSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59725/av_thumb__av_imagen.webp?h=e9d805b9" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59725/av_thumb__av_imagen.webp?h=e9d805b9" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Herzog & de Meuron  EHDD  James Corner Field OperationsUnited States]]></title>
             <link>https://arquitecturaviva.com/works/instituto-eames-de-la-curiosidad-infinita-en-novato</link>
             <guid>https://arquitecturaviva.com/works/instituto-eames-de-la-curiosidad-infinita-en-novato</guid>
             <description><![CDATA[<p><strong>Herzog & de Meuron  EHDD  James Corner Field OperationsUnited States</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59751/av_thumb__av_imagen.jpeg?h=eede2a7f" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59751/av_thumb__av_imagen.jpeg?h=eede2a7f" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59751/av_thumb__av_imagen.webp?h=eede2a7f" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59751/av_thumb__av_imagen.webp?h=eede2a7f" medium="image" />
         </item>
         <item>
             <title><![CDATA[Héctor Fernández ElorzaSpain]]></title>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>SV60 / Cordón & Liñán ArquitectosCyprus</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59693/av_imagen_listados.webp?h=73b795bb" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59693/av_imagen_listados.webp?h=73b795bb" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[estudioHerrerosSpain]]></title>
-            <link>https://arquitecturaviva.com/works/coleccion-de-arte-alkar-en-bilbao</link>
-            <guid>https://arquitecturaviva.com/works/coleccion-de-arte-alkar-en-bilbao</guid>
-            <description><![CDATA[<p><strong>estudioHerrerosSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59691/av_thumb__av_imagen.webp?h=5e8db9ee" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59691/av_thumb__av_imagen.webp?h=5e8db9ee" medium="image" />
         </item>
 </channel>
 </rss>
