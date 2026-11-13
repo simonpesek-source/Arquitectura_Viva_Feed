@@ -4,15 +4,23 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Thu, 12 Nov 2026 16:23:30 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 15:44:10 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Héctor Navarro   arkhitektonSpain]]></title>
+            <link>https://arquitecturaviva.com/works/casa-la-rotura-en-vernejo</link>
+            <guid>https://arquitecturaviva.com/works/casa-la-rotura-en-vernejo</guid>
+            <description><![CDATA[<p><strong>Héctor Navarro   arkhitektonSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59787/av_thumb__av_imagen.webp?h=477c18d9" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59787/av_thumb__av_imagen.webp?h=477c18d9" medium="image" />
+        </item>
         <item>
             <title><![CDATA[John McAslanUnited Kingdom]]></title>
             <link>https://arquitecturaviva.com/works/global-leadership-centre-en-oxford</link>
             <guid>https://arquitecturaviva.com/works/global-leadership-centre-en-oxford</guid>
             <description><![CDATA[<p><strong>John McAslanUnited Kingdom</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59727/av_thumb__av_imagen.jpeg?h=bd7d7f51" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59727/av_thumb__av_imagen.jpeg?h=bd7d7f51" medium="image" />
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59727/av_thumb__av_imagen.webp?h=bd7d7f51" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59727/av_thumb__av_imagen.webp?h=bd7d7f51" medium="image" />
         </item>
         <item>
             <title><![CDATA[Lily Zhang  Wataru ShinjiChina]]></title>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>5468796 ArchitectureCanada</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59701/av_imagen_listados.webp?h=d244e883" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59701/av_imagen_listados.webp?h=d244e883" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Leku StudioSpain]]></title>
-            <link>https://arquitecturaviva.com/works/plaza-recoletas-en-tafalla</link>
-            <guid>https://arquitecturaviva.com/works/plaza-recoletas-en-tafalla</guid>
-            <description><![CDATA[<p><strong>Leku StudioSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59699/av_thumb__av_imagen.webp?h=0fb8d913" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59699/av_thumb__av_imagen.webp?h=0fb8d913" medium="image" />
         </item>
 </channel>
 </rss>
