@@ -4,8 +4,24 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Tue, 17 Nov 2026 17:08:06 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 16:45:36 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Amann-Cánovas-MaruriSpain]]></title>
+            <link>https://arquitecturaviva.com/works/244-viviendas-sociales-en-santiago-de-compostela</link>
+            <guid>https://arquitecturaviva.com/works/244-viviendas-sociales-en-santiago-de-compostela</guid>
+            <description><![CDATA[<p><strong>Amann-Cánovas-MaruriSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59797/av_thumb__av_imagen.jpeg?h=719b988d" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59797/av_thumb__av_imagen.jpeg?h=719b988d" medium="image" />
+        </item>
+        <item>
+            <title><![CDATA[OFS architectsSpain]]></title>
+            <link>https://arquitecturaviva.com/works/52-viviendas-de-proteccion-publica-en-barajas-madrid</link>
+            <guid>https://arquitecturaviva.com/works/52-viviendas-de-proteccion-publica-en-barajas-madrid</guid>
+            <description><![CDATA[<p><strong>OFS architectsSpain</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59795/av_thumb__av_imagen.webp?h=20547c23" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59795/av_thumb__av_imagen.webp?h=20547c23" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Cristóbal Noguera   Abarca y Palma ArquitectosChile]]></title>
             <link>https://arquitecturaviva.com/works/casa-en-puerto-clocker</link>
@@ -149,22 +165,6 @@
             <description><![CDATA[<p><strong>Javier de las Heras SoléSpain</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59721/av_thumb__av_imagen.webp?h=8c871a25" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59721/av_thumb__av_imagen.webp?h=8c871a25" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[MID estudio  FILO arquitectosSpain]]></title>
-            <link>https://arquitecturaviva.com/works/centro-de-recursos-forestales-sakana-mendialdea-en-irurtzun</link>
-            <guid>https://arquitecturaviva.com/works/centro-de-recursos-forestales-sakana-mendialdea-en-irurtzun</guid>
-            <description><![CDATA[<p><strong>MID estudio  FILO arquitectosSpain</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59717/av_thumb__av_imagen.webp?h=f9349c26" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59717/av_thumb__av_imagen.webp?h=f9349c26" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[MMXMexico]]></title>
-            <link>https://arquitecturaviva.com/works/unidad-basica-de-rehabilitacion-la-era-en-tepetlaoxtoc</link>
-            <guid>https://arquitecturaviva.com/works/unidad-basica-de-rehabilitacion-la-era-en-tepetlaoxtoc</guid>
-            <description><![CDATA[<p><strong>MMXMexico</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59715/av_thumb__av_imagen.webp?h=37a16572" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59715/av_thumb__av_imagen.webp?h=37a16572" medium="image" />
         </item>
 </channel>
 </rss>
