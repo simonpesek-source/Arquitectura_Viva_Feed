@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Mon, 23 Nov 2026 19:32:22 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 19:08:15 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[Whale!Chile]]></title>
+            <link>https://arquitecturaviva.com/works/casa-asomada-en-tunquen</link>
+            <guid>https://arquitecturaviva.com/works/casa-asomada-en-tunquen</guid>
+            <description><![CDATA[<p><strong>Whale!Chile</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59749/av_thumb__av_imagen.webp?h=172ecb52" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59749/av_thumb__av_imagen.webp?h=172ecb52" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Natura Futura ArquitecturaEcuador]]></title>
             <link>https://arquitecturaviva.com/works/centro-desarrollo-y-de-produccion-rural-la-panificadora-en-babahoyo</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>Jakob + MacFarlaneBelgium</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59729/av_thumb__av_imagen.webp?h=60c076a1" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59729/av_thumb__av_imagen.webp?h=60c076a1" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Kengo KumaDenmark]]></title>
-            <link>https://arquitecturaviva.com/works/kai-water-culture-house</link>
-            <guid>https://arquitecturaviva.com/works/kai-water-culture-house</guid>
-            <description><![CDATA[<p><strong>Kengo KumaDenmark</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59731/av_thumb__av_imagen.webp?h=849d0d77" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59731/av_thumb__av_imagen.webp?h=849d0d77" medium="image" />
         </item>
 </channel>
 </rss>
