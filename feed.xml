@@ -4,8 +4,16 @@
   <title>Arquitectura Viva - Works</title>
   <link>https://arquitecturaviva.com/works</link>
   <description>Nejnovější projekty z Arquitectura Viva</description>
-  <lastBuildDate>Tue, 24 Nov 2026 19:08:15 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 18:14:20 GMT</lastBuildDate>
   
+        <item>
+            <title><![CDATA[matos gameiro arquitectos  atelier BugioPortugal]]></title>
+            <link>https://arquitecturaviva.com/works/instituto-de-educacion-secundaria-en-cascais</link>
+            <guid>https://arquitecturaviva.com/works/instituto-de-educacion-secundaria-en-cascais</guid>
+            <description><![CDATA[<p><strong>matos gameiro arquitectos  atelier BugioPortugal</strong></p>]]></description>
+            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59781/av_thumb__av_imagen.webp?h=84a1d92c" type="image/jpeg" length="1024" />
+            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59781/av_thumb__av_imagen.webp?h=84a1d92c" medium="image" />
+        </item>
         <item>
             <title><![CDATA[Whale!Chile]]></title>
             <link>https://arquitecturaviva.com/works/casa-asomada-en-tunquen</link>
@@ -157,14 +165,6 @@
             <description><![CDATA[<p><strong>Alison Brooks ArchitectsUnited Kingdom</strong></p>]]></description>
             <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59733/av_thumb__av_imagen.webp?h=dbcc1fdf" type="image/jpeg" length="1024" />
             <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59733/av_thumb__av_imagen.webp?h=dbcc1fdf" medium="image" />
-        </item>
-        <item>
-            <title><![CDATA[Jakob + MacFarlaneBelgium]]></title>
-            <link>https://arquitecturaviva.com/works/hoost-community-house-en-knokke-heist</link>
-            <guid>https://arquitecturaviva.com/works/hoost-community-house-en-knokke-heist</guid>
-            <description><![CDATA[<p><strong>Jakob + MacFarlaneBelgium</strong></p>]]></description>
-            <enclosure url="https://arquitecturaviva.com/assets/uploads/obras/59729/av_thumb__av_imagen.webp?h=60c076a1" type="image/jpeg" length="1024" />
-            <media:content url="https://arquitecturaviva.com/assets/uploads/obras/59729/av_thumb__av_imagen.webp?h=60c076a1" medium="image" />
         </item>
 </channel>
 </rss>
